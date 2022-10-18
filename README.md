@@ -13,10 +13,10 @@
     <br>
     <br><br><br>
     <h2>SignUp</h2>
-    <img style='border-radius:5px' src="\images\register.jpg"></img>
+    <img style='border-radius:5px' src="https://github.com/haiyi-new/Todo-App-Krenovator--Project1-/blob/master/images/register.jpg"></img>
     <br><br><br>
     <h2>Main</h2>
-    <img style='border-radius:5px' src="\images\main.jpg"></img>
+    <img style='border-radius:5px' src="https://github.com/haiyi-new/Todo-App-Krenovator--Project1-/blob/master/images/main.jpg"></img>
 </div>
 <hr>
 
@@ -34,7 +34,6 @@
 <hr>
 <br><br><br><br>
 <h1 align='center'><b>Language and technologies used in This Project</h1>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></img>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
