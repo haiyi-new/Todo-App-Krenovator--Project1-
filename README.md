@@ -42,6 +42,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>
 
 
 
