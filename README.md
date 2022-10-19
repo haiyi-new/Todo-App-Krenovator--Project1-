@@ -22,7 +22,7 @@
 <li> Able to do CRUD data, View,Add,Update and Delete list of to do</li>
 <li> Able to put status on the list of to do</li>
 <li> Able to save password with encryption</li>
-<li> Able to save sessions with cookies</li>\
+<li> Able to save sessions with cookies</li>
 <li> Able to protect pages of path URL</li>
  </ul>
 
