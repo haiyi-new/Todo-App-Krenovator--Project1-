@@ -7,14 +7,14 @@
 
 <br><br><br>
 <div align='center'>
-    <h2>LogIn</h2>
+    <h2>Login</h2>
     <img style='border-radius:5px' src="https://github.com/haiyi-new/Todo-App-Krenovator--Project1-/blob/master/images/login.jpg"></img>
     <br>
     <br><br><br>
-    <h2>SignUp</h2>
+    <h2>Register</h2>
     <img style='border-radius:5px' src="https://github.com/haiyi-new/Todo-App-Krenovator--Project1-/blob/master/images/register.jpg"></img>
     <br><br><br>
-    <h2>Main</h2>
+    <h2>Main To Do List</h2>
     <img style='border-radius:5px' src="https://github.com/haiyi-new/Todo-App-Krenovator--Project1-/blob/master/images/main.jpg"></img>
 </div>
 <hr>
@@ -24,11 +24,13 @@
 <h1 align='center'><b>Abilities</b></h1>
 
 <ul>
-<li> Able To Run Server</li>
-<li> Able To Login and Signup and even log-out</li>
-<li> Able To add a task and remove it</li>
-<li> Able To put status on the task</li>
-  </ul>
+<li> Able to Login,Register and Logout</li>
+<li> Able to do CRUD data, View,Add,Update and Delete list of to do</li>
+<li> Able to put status on the list of to do</li>
+<li> Able to save password with encryption</li>
+<li> Able to save sessions with cookies</li>\
+<li> Able to protect pages of path URL</li>
+ </ul>
 
 <hr>
 <br><br><br><br>
@@ -51,6 +53,7 @@
 <h1 align='center'><b>Requirements</b></h1>
 
 Download and install ``NodeJS`` from official website <a href="https://nodejs.org/">nodeJS.org</a>
+Download and setup ``XAMPP`` and ``MySQL`` from official website <a href="https://www.apachefriends.org/">apachefriends.org</a>
 
 <br>
 
@@ -58,28 +61,29 @@ Download and install ``NodeJS`` from official website <a href="https://nodejs.or
 
 <h1 align='center'><b>How To Run</b></h1>
 
-At first you have to clone the project and open it in ``IDE``
+At first you have to clone the project and open it in IDE. Example VSCode & Fleet. The under server/config folder, fill the requested info in Database.js.
+Fill in your: table name,user,password && host,port. Dialect will be using ``mysql``.
 
 <br>
 
-Open IDE's terminal and then write  ``~ cd server`` and enter
+1)Open IDE's terminal and then write  ``~ cd server`` and enter
 
 <br>
 
-After that write ``~ npm i`` and enter
+2)After that write ``~ npm i`` and enter
 
 <br>
 
-type ``~ npm start`` and then enter
+3)type ``~ npm start`` and then enter
 
 <br>
 
-Now open another terminal and write ``~ cd client``
+4)Now open another terminal and write ``~ cd client``
 
 <br>
 
-And then write ``~ npm i`` and ``~ npm start``
+5)And then write ``~ npm i`` and ``~ npm start``
 
 <br>
 
-Congratulations ,now you can ``signup`` and use the website
+Congratulations ,now you can ``Register`` and use the website
