@@ -47,9 +47,8 @@
 <h1 align='center'><b>Requirements</b></h1>
 
 Download and install ``NodeJS`` from official website <a href="https://nodejs.org/">nodeJS.org</a>
-Download and setup ``XAMPP`` and ``MySQL`` from official website <a href="https://www.apachefriends.org/">apachefriends.org</a>
-
 <br>
+Download and setup ``XAMPP`` and ``MySQL`` from official website <a href="https://www.apachefriends.org/">apachefriends.org</a>
 
 <br><br><br><br>
 
